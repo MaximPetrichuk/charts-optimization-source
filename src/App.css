@@ -24,6 +24,15 @@
   color: white;
 }
 
+.charts {
+  font-size: 14px;
+  color: white;
+}
+
+.charts text, .charts tspan {
+  fill: #e5e5e5;
+}
+
 .App-link {
   color: #61dafb;
 }
